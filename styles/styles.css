@@ -1,0 +1,821 @@
+.project {
+    margin: 0 auto;
+    width: 1600px;
+    height: 4500px;
+    display: flex;
+    flex-direction: column;
+    background: #F6FAFD;
+}
+
+.header0 {
+    width: 1248px;
+    height: 754px;
+    margin: 50px 0 0 240px;
+}
+
+.nav {
+    width: 322px;
+    height: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    margin-left: 121px;
+}
+
+.text1-h0 {
+    font-family: "Avenir";
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 160%;
+    color: #212353;
+}
+
+.text2-h0 {
+    font-family: "Avenir";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 160%;
+    color: #4B5D68;
+}
+
+.top {
+    width: 1120px;
+    height: 60px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.RD {
+    width: 210px;
+    height: 60px;
+    background: #FFFFFF;
+    box-shadow: 0px 5px 5px rgba(75, 93, 104, 0.1);
+    border-radius: 50px;
+}
+
+.RD div {
+    width: 152px;
+    height: 26px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.005em;
+    margin: auto;
+}
+
+.RD div span {
+    width: 112px;
+    height: 26px;
+    font-family: "Avenir";
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 160%;
+    color: #212353;
+    margin: 0 20px 0 0;
+}
+
+.betw {
+    display: flex;
+    flex-direction: row;
+    margin: 130px 0 0 0px;
+}
+
+.headline {
+    width: 645px;
+    height: 464px;
+}
+
+.text3-h0 {
+    width: 645px;
+    height: 184px;
+    font-family: "Helvetica";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 80px;
+    line-height: 110%;
+    display: flex;
+    align-items: center;
+    color: #212353;
+}
+
+.text4-h0 {
+    width: 380px;
+    height: 120px;
+    font-family: "Avenir";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 160%;
+    color: #4B5D68;
+    margin: 50px 0 50px 0;
+}
+
+.text5-h0 {
+    width: 170px;
+    height: 60px;
+    background: #9C69E2;
+    border-radius: 50px;
+}
+
+.text5-h0 span {
+    font-family: "Avenir";
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 160%;
+    color: #FFFFFF;
+    margin: auto;
+}
+
+.betw img {
+    width: 885px;
+    height: 468px;
+    margin-top: 100px;
+    margin-left: -290px;
+}
+
+.header1 {
+    width: 1117px;
+    height: 560px;
+    background: rgba(240, 99, 184, 0.15);
+    border-radius: 50px;
+    margin: 99.18px 0 0 240px;
+    display: flex;
+    flex-direction: row;
+}
+
+.picture-h1 {
+    width: 477px;
+    height: 504px;
+    margin: 31.82px 0 0 11px;
+}
+
+.text-h1 {
+    margin: 125px 0 0 62px;
+}
+
+.text1-h1 {
+    width: 475px;
+    height: 100px;
+    font-family: "Helvetica";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 130%;
+    display: flex;
+    align-items: center;
+
+    color: #212353;
+
+}
+
+.text2-h1 {
+    width: 474px;
+    height: 170px;
+    font-family: "Avenir";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 160%;
+    color: #4B5D68;
+    margin: 40px 0 0 0;
+}
+
+.body1 {
+    width: 1136.85px;
+    height: 1002.06px;
+    margin: 149.82px 0 0 220px;
+    display: flex;
+    flex-direction: column;
+}
+
+.text1-b1 {
+    width: 405px;
+    height: 52px;
+    font-family: "Helvetica";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 130%;
+    text-align: center;
+    color: #212353;
+    margin: 0 auto;
+}
+
+.text2-b1 {
+    width: 584px;
+    height: 58px;
+    font-family: "Avenir";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 160%;
+    text-align: center;
+    color: #4B5D68;
+    margin-top: 50px;
+    margin-left: 268.29px;
+}
+
+.line {
+    display: flex;
+    flex-direction: row;
+}
+
+.line1 {
+    display: flex;
+    flex-direction: column;
+    margin: 173px 0 0 0;
+}
+
+.img1 {
+    width: 232px;
+    height: 211px;
+    margin: 0 0 247px 19px;
+}
+
+.img2 {
+    width: 245px;
+    height: 181px;
+}
+
+.line2 {
+    display: flex;
+    flex-direction: column;
+    margin: 149px 0 0 29.29px;
+}
+
+.text3-b1 {
+    width: 200px;
+    height: 50px;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 130%;
+    display: flex;
+    align-items: center;
+    color: #212353;
+}
+
+.text4-b1 {
+    width: 220px;
+    height: 160px;
+    font-family: "Avenir";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 160%;
+    color: #4B5D68;
+    margin: 20px 0 20px 0;
+}
+
+.arrow {
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.005em;
+}
+
+.arrow span {
+    width: 87px;
+    height: 26px;
+    font-family: "Avenir";
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 160%;
+    margin: 0 20px 0 0;
+    color: #212353;
+}
+
+.text5-b1 {
+    width: 200px;
+    height: 50px;
+    font-family: "Helvetica";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 130%;
+    display: flex;
+    align-items: center;
+    color: #212353;
+    margin: 132px 0 0 0;
+}
+
+.text6-b1 {
+    width: 220px;
+    height: 160px;
+    font-family: "Avenir";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 160%;
+    color: #4B5D68;
+    margin: 20px 0 20px 0;
+}
+
+.line3 {
+    display: flex;
+    flex-direction: column;
+    margin: 171px 0 0 92.71px;
+}
+
+.img3 {
+    width: 241px;
+    height: 185px;
+}
+.img4 {
+    width: 230px;
+    height: 201px;
+    margin: 238px 0 0 0;
+}
+
+.line4 {
+    display: flex;
+    flex-direction: column;
+    margin: 149px 0 0 33.28px;
+}
+
+.text7-b1 {
+    width: 200px;
+    height: 50px;
+    font-family: "Helvetica";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 130%;
+    display: flex;
+    align-items: center;
+    color: #212353;
+}
+
+.text8-b1 {
+    width: 220px;
+    height: 160px;
+    font-family: "Avenir";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 160%;
+    color: #4B5D68;
+    margin: 20px 0 20px 0;
+}
+
+.text9-b1 {
+    width: 200px;
+    height: 50px;
+    font-family: "Helvetica";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 130%;
+    display: flex;
+    align-items: center;
+    color: #212353;
+    margin: 132px 0 0 0;
+}
+
+.text10-b1 {
+    width: 220px;
+    height: 160px;
+    font-family: "Avenir";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 160%;
+    color: #4B5D68;
+    margin: 20px 0 20px 0;
+}
+
+.footer1 {
+    width: 1118px;
+    height: 709px;
+    background: #60379a;
+    border-radius: 50px;
+    margin: 173.94px 0 0 242px
+}
+
+.text1-f1 {
+    width: 405px;
+    height: 52px;
+    font-family: "Helvetica";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 130%;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+    margin: 109px 0 83px 93px;
+}
+
+.form-f1 {
+    width: 949px;
+    height: 330px;
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    box-shadow: 0px 20px 0px rgba(156, 105, 226, 0.3);
+    border-radius: 20px;
+    margin: 0 0 0 93px
+}
+
+.form-f1 img {
+    margin: 60px 0 0 102.9px;
+    width: 132.42px;
+    height: 90px;
+}
+
+.line-f1 {
+    display: flex;
+    flex-direction: column;
+    margin: 80px 0 0 44.14px;
+}
+
+.text2-f1 {
+    width: 250.12px;
+    height: 29px;
+    font-family: "Avenir";
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 160%;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.005em;
+    color: #212353;
+}
+
+.text3-f1 {
+    width: 148.6px;
+    height: 22px;
+    font-family: "Avenir";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 160%;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.01em;
+}
+
+.text3-f1 a {
+    color: #9C69E2;
+}
+
+.text4-f1 {
+    width: 566.46px;
+    height: 130px;
+    font-family: "Avenir";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 180%;
+    color: #4B5D68;
+    margin: 19px 0 0 0;
+}
+
+.bottom-f1 {
+    width: 949px;
+    height: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 58px 0 0 93px;
+}
+
+.dots {
+    width: 55px;
+    height: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.dot1 {
+    width: 10px;
+    height: 10px;
+}
+
+.dot2 {
+    width: 5px;
+    height: 5px;
+}
+
+.arrows {
+    width: 80px;
+    height: 14px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.arrow2 {
+    opacity: 0.5;
+}
+
+.linee {
+    width: 1600px;
+    height: 2px;
+    background: #9C69E2;
+    opacity: 0.2;
+    margin: 150px 0 0 0;
+
+}
+
+.footer2{
+    display: flex;
+    flex-direction: column;
+    width: 1600px;
+    height: 761px;
+    margin: 0 0 0 0;
+}
+
+.f2 {
+    width: 1600px;
+    height: 101px;
+    display: flex;
+    flex-direction: row;
+}
+
+.title-f2 {
+    width: 584px;
+    height: 101px;
+    display: flex;
+    flex-direction: column;
+    margin: 100px 0 0 240px;
+}
+
+.title-f2 span {
+    width: 405px;
+    height: 52px;
+    font-family: "Helvetica";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 130%;
+    display: flex;
+    align-items: center;
+    color: #212353;
+}
+
+.title-f2 p {
+    width: 584px;
+    height: 29px;
+    font-family: "Avenir";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 160%;
+    color: #4B5D68;
+    margin: 20px 0 0 0 ;
+}
+
+.btns-f2 {
+    width: 410px;
+    height: 60px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 121px 243px 0 123px;
+}
+
+.bt1 {
+    width: 170px;
+    height: 60px;
+    background: #F063B8;
+    border-radius: 50px;
+}
+
+.bt1 span {
+    width: 96px;
+    height: 29px;
+    font-family: "Avenir";
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 160%;
+    margin: auto;
+    color: #FFFFFF;
+}
+
+.bt2 {
+    width: 210px;
+    height: 60px;
+    background: #FFFFFF;
+    box-shadow: 0px 5px 5px rgba(75, 93, 104, 0.1);
+    border-radius: 50px;
+}
+
+.bt2 div {
+    width: 152px;
+    height: 26px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.bt2 span {
+    width: 112px;
+    height: 26px;
+    font-family: "Avenir";
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 160%;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.005em;
+    color: #212353;
+}
+
+.bt2 img {
+    width: 20px;
+    height: 14px;
+    margin: auto;
+}
+
+.footer-f2 {
+    width: 1117px;
+    height: 408px;
+    margin: 250px 0 0 240px;
+    margin-bottom: 100px;
+    display: flex;
+    flex-direction: row;
+}
+
+.l1 {
+    height: 408px;
+    width: 360px;
+    display: flex;
+    flex-direction: column;
+}
+
+.log {
+    display: flex;
+    flex-direction: row;
+}
+
+.log img {
+    width: 49px;
+    height: 35px;
+}
+
+.log p {
+    width: 153px;
+    height: 30px;
+    font-family: "Avenir";
+    font-style: normal;
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 160%;
+    color: #212353;
+    margin: 0 0 0 20px;
+}
+
+.adress {
+    width: 335px;
+    height: 65px;
+    font-family: "Avenir";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 180%;
+    color: #212353;
+    letter-spacing: 0.01em;
+    margin: 65px 0 0 0;
+}
+
+.contact {
+    width: 335px;
+    height: 60px;
+    font-family: "Avenir";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 180%;
+    letter-spacing: 0.01em;
+    color: #212353;
+    margin: 10px 0 0 0;
+}
+
+.info {
+    width: 360px;
+    height: 50px;
+    font-family: "Avenir";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 180%;
+    letter-spacing: 0.01em;
+    color: #212353;
+    margin: 118px 0 0 0;
+}
+
+.l2 {
+    height: 408px;
+    width: 166px;
+    margin: 0 0 0 115px;
+}
+
+.text1-l2 {
+    width: 51.75px;
+    height: 30px;
+    font-family: "Avenir";
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 160%;
+    color: #212353;
+}
+
+.text2-l2 {
+    width: 166px;
+    height: 160px;
+    font-family: "Avenir";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 250%;
+    color: #212353;
+    margin: 30px 0 0 0;
+}
+
+.l3 {
+    height: 408px;
+    width: 166px;
+    margin: 0 0 0 50px;
+}
+
+.text1-l3 {
+    width: 51.75px;
+    height: 30px;
+    font-family: "Avenir";
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 160%;
+    color: #212353;
+}
+
+.text2-l3 {
+    width: 166px;
+    height: 190px;
+    font-family: "Avenir";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 250%;
+    color: #212353;
+    margin: 30px 0 0 0;
+}
+
+.l4 {
+    height: 408px;
+    width: 208px;
+    margin: 0 0 0 50px;
+}
+
+.text1-l4 {
+    width: 170px;
+    height: 30px;
+    font-family: "Avenir";
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 160%;
+    color: #212353;
+}
+
+.SM {
+    width: 178px;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 30px 0 0 0;
+}
+
+.SM img {
+    width: 50px;
+    height: 50px;
+}
+
+.v {
+    width: 60px;
+    height: 60px;
+    margin: 228px 0 0 150px;
+}
+
+@font-face {
+    font-family: "Avenir";
+    src: url("../fonts/avenir_ff/AvenirLTStd-Roman.otf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
